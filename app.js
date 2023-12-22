@@ -29,15 +29,15 @@ app.use('/products', productRoutes);
 app.use('/users', userRoutes);
 app.use('/mp' , routeMp)
 
-// const __filename = fileURLToPath(import.meta.url);
-// const __dirname = dirname(__filename);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
-// app.use(Express.static(path.join(__dirname, './build')));
+app.use(Express.static(path.join(__dirname, './build')));
 
-// // Manejar todas las demás rutas y redirigirlas al index.html
-// app.get('*', (req, res) => {
-//   res.sendFile(path.join(__dirname, './build', 'index.html'));
-// });
+// Manejar todas las demás rutas y redirigirlas al index.html
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, './build', 'index.html'));
+});
 
 app.get('/',(req,res)=>{
      res.send('hola mundo')
