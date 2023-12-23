@@ -1,7 +1,7 @@
 import db from "../database/db.js";
 import {  DataTypes } from "sequelize";
 
-const ProductModel = db.define('proteinas',{
+const ProductModel = db.define('productos',{
     nombre: {type:DataTypes.STRING},
     marca: {type:DataTypes.STRING},
     stockMax: {type: DataTypes.NUMBER},

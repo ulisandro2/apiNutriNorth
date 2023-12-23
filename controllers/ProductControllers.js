@@ -1,6 +1,6 @@
 import ProductModel from "../models/ProductModel.js";
 import { productsStock, productMinStock } from "../app.js";
-import { where } from "sequelize";
+
 
 
 export const getAllProducts = async (req,res)=>{
