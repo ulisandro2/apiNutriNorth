@@ -24,8 +24,8 @@ mercadopago.configure({
                 quantity:1
             }],
             back_urls:{
-                success: 'http://localhost:3000/',
-                failure: 'http://localhost:3000/',
+                success: 'https://apinutrinorth-production.up.railway.app/',
+                failure: 'https://apinutrinorth-production.up.railway.app/',
             },
             auto_return:'approved',
             binary_mode:true,
