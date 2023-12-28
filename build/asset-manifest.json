@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04b2abe8.css",
+    "main.js": "/static/js/main.ff259f61.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bannerOficial.jpg": "/static/media/bannerOficial.3afbc49fa812c9ec65b5.jpg",
+    "static/media/proteina.png": "/static/media/proteina.50cce1bbbd54cdea2c1a.png",
+    "static/media/banner2.jpg": "/static/media/banner2.f8f582221da28841e8d6.jpg",
+    "static/media/logoAfa.png": "/static/media/logoAfa.d6857cff9f08fd76cc31.png",
+    "static/media/logoStar.jpeg": "/static/media/logoStar.dec67a14894fa429d0a2.jpeg",
+    "static/media/logoUni.png": "/static/media/logoUni.1384df9ba395e7a1216e.png",
+    "static/media/logoXtre2.png": "/static/media/logoXtre2.3147a113603e390b08d9.png",
+    "static/media/logoNutri.png": "/static/media/logoNutri.d418f20200daed3c1141.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/miniLogo2.png": "/static/media/miniLogo2.3cc6b883f98ac7239116.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.04b2abe8.css.map": "/static/css/main.04b2abe8.css.map",
+    "main.ff259f61.js.map": "/static/js/main.ff259f61.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b2abe8.css",
+    "static/js/main.ff259f61.js"
+  ]
+}
