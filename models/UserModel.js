@@ -5,7 +5,7 @@ import { DataTypes } from "sequelize";//tipo de dato extraido de la base de dato
 //El modelo de todos los usuarios extrayendo todos sus campos
 const UserModel = db.define ('users',{
     nombre: {type: DataTypes.STRING},
-    contrasena: {type: DataTypes.STRING},
+    contraseña: {type: DataTypes.STRING},
     telefono: {type: DataTypes.STRING},
     email: {type: DataTypes.STRING},
 });
