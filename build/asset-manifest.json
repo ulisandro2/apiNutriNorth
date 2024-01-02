@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.04b2abe8.css",
-    "main.js": "/static/js/main.0ffe71ac.js",
+    "main.js": "/static/js/main.445ea3e2.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bannerOficial.jpg": "/static/media/bannerOficial.3afbc49fa812c9ec65b5.jpg",
-    "static/media/proteina.png": "/static/media/proteina.50cce1bbbd54cdea2c1a.png",
     "static/media/banner2.jpg": "/static/media/banner2.f8f582221da28841e8d6.jpg",
     "static/media/logoAfa.png": "/static/media/logoAfa.d6857cff9f08fd76cc31.png",
     "static/media/logoStar.jpeg": "/static/media/logoStar.dec67a14894fa429d0a2.jpeg",
@@ -17,11 +16,11 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.04b2abe8.css.map": "/static/css/main.04b2abe8.css.map",
-    "main.0ffe71ac.js.map": "/static/js/main.0ffe71ac.js.map",
+    "main.445ea3e2.js.map": "/static/js/main.445ea3e2.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04b2abe8.css",
-    "static/js/main.0ffe71ac.js"
+    "static/js/main.445ea3e2.js"
   ]
 }
