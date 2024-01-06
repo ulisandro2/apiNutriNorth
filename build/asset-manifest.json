@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.04b2abe8.css",
-    "main.js": "/static/js/main.445ea3e2.js",
+    "main.css": "/static/css/main.b62e9f23.css",
+    "main.js": "/static/js/main.47c58dff.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/bannerOficial.jpg": "/static/media/bannerOficial.3afbc49fa812c9ec65b5.jpg",
+    "static/media/bannerOficial.jpg": "/static/media/bannerOficial.caa490846586c2417bff.jpg",
     "static/media/banner2.jpg": "/static/media/banner2.f8f582221da28841e8d6.jpg",
     "static/media/logoAfa.png": "/static/media/logoAfa.d6857cff9f08fd76cc31.png",
     "static/media/logoStar.jpeg": "/static/media/logoStar.dec67a14894fa429d0a2.jpeg",
@@ -15,12 +15,12 @@
     "static/media/miniLogo2.png": "/static/media/miniLogo2.3cc6b883f98ac7239116.png",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.04b2abe8.css.map": "/static/css/main.04b2abe8.css.map",
-    "main.445ea3e2.js.map": "/static/js/main.445ea3e2.js.map",
+    "main.b62e9f23.css.map": "/static/css/main.b62e9f23.css.map",
+    "main.47c58dff.js.map": "/static/js/main.47c58dff.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b2abe8.css",
-    "static/js/main.445ea3e2.js"
+    "static/css/main.b62e9f23.css",
+    "static/js/main.47c58dff.js"
   ]
 }
