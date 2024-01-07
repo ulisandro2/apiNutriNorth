@@ -24,7 +24,7 @@ mercadopago.configure({
                 quantity:1
             }],
             back_urls:{
-                success: 'https://apinutrinorth-production.up.railway.app/',
+                success: 'https://apinutrinorth-production.up.railway.app/compra-exitosa',
                 failure: 'https://apinutrinorth-production.up.railway.app/',
             },
             auto_return:'approved',
