@@ -18,14 +18,14 @@ mercadopago.configure({
     
         const preference ={
             items:[{
-                title: 'Productos',
+                title: 'Compra NutriNorth',
                 unit_price: Number(totalAmount) ,
                 currency_id: 'ARS',
                 quantity:1
             }],
             back_urls:{
                 success: 'https://apinutrinorth-production.up.railway.app/compra-exitosa',
-                failure: 'https://apinutrinorth-production.up.railway.app/',
+                failure: 'https://apinutrinorth-production.up.railway.app/compra-fallida',
             },
             auto_return:'approved',
             binary_mode:true,
